@@ -44,6 +44,6 @@ If you use TOPAL, please consider citing:
 ```
 
 ## Contact
-Should you have any question, please contact [Shuzhou Yang].
+Should you have any question, please contact [Zhiying Jiang].
 
-[Shuzhou Yang]:yszdyx@gmail.com
+[Zhiying Jiang]:zyjiang0630@gmail.com
